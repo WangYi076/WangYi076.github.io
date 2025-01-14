@@ -8,7 +8,7 @@ He is currently pursuing a Master's degree in Computer Science at Tianjin Univer
 wangyi076[at]tju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, TianJin University, 2024—2025 (expected).\
+M.E., Computer Science and Technology, TianJin University, 2024—2027 (expected).
 
 B.E., Computer Science and Technology, JiLin University , 2020—2024.
 
